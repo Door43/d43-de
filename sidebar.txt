@@ -24,3 +24,10 @@ All content for this namespace is available in the [[https://github.com/Door43/d
 **Language Information**
 
 [[http://www.ethnologue.com/language/de|Ethnologue data]]
+
+**Resources**
+
+  * [[de:obs|Open Bible Stories (de)]]
+
+**Latest OBS Status**
+{{page>en:uwadmin:de:obs:status}}
