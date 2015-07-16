@@ -1,8 +1,5 @@
 ====== Open Bible Stories (de) ======
 
-Welcome to Open Bible Stories! Please feel free to translate this page and the stories (including the titles) below. More information on how to get started translating Open Bible Stories is [[en:obs:help|here]], and useful information may also be found at [[en:get-started|"Getting Started"]] and [[en:tips-tricks|"Tips & Tricks"]]. If you need help, [[/contact|just ask]]!
+Willkommen bei Open Bible Stories! Nehmt euch bitte die Freiheit, diese Seite und auch die biblischen Geschichten (mitsamt der Überschriften) zu übersetzen. Klickt [[:en:obs:help|hier]], um weitere Informationen darüber zu bekommen, wie ihr beginnen könnt, die Open Bible Stories zu übersetzen. Nützliche Informationen finden sich auch bei [[:en:get-started|"Anfangen"]] und bei [[:en:tips-tricks|"Tipps & Tricks"]]. Wenn ihr Hife braucht, einfach [[:contact|fragen]]!
 
-{{page>de:obs:stories}}
-
-{{page>en:obs:active}}
-
+{{page>de:obs:stories}}{{page>en:obs:active}}
