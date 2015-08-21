@@ -6,6 +6,6 @@ Herzlich willkommen bei Door43! Wenn Sie möchten, dann [[:de:home?do=edit|bearb
 
   * **[[:de:obs|Open Bible Stories (de)]]**
 
-===== Resources =====
+===== Ressourcen =====
 
-  * **[[de:obs|Open Bible Stories (de)]]**
+  * **[[:de:obs|Open Bible Stories (de)]]**
