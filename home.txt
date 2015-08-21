@@ -2,10 +2,9 @@
 
 Herzlich willkommen bei Door43! Wenn Sie möchten, dann [[:de:home?do=edit|bearbeiten]] Sie diese Webseite in Ihrer eigenen Sprache. Weitere Informationen, wie Sie das machen können, finden Sie [[:en:get-started|hier]].
 
-===== Resources =====
+===== Ressourcen =====
 
-  * **[[de:obs|Open Bible Stories (de)]]**
-
+  * **[[:de:obs|Open Bible Stories (de)]]**
 
 ===== Resources =====
 
