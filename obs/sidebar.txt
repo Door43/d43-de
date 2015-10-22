@@ -9,17 +9,12 @@
 
   * [[de:obs|Open Bible Stories (de)]]
 
-
 **Downloads**
 
 All content for this namespace is available in the [[https://github.com/Door43/d43-de|d43-de repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-de/archive/master.zip|d43-de.zip]]
 
 **Recent Changes**
 {{changes>ns = de}}
-
-**Latest Status**
-{{page>en:uwadmin:de:obs:status}}
-
 
 **Language Information**
 
@@ -29,5 +24,3 @@ All content for this namespace is available in the [[https://github.com/Door43/d
 
   * [[de:obs|Open Bible Stories (de)]]
 
-**Latest OBS Status**
-{{page>en:uwadmin:de:obs:status}}
